@@ -3,13 +3,13 @@
 
     # Conference info
     conf:
-      name: "Conference name"
+      name: "Conference in the jungle"
       description: "Conference description"
       date: "November 15"
       price: "$100"
-      address: "Boulevard Kukulcan, 30, México"
+      address: "Av Oswaldo Aranha"
       venue: "Coco Bongo"
-      city: "Cancún"
+      city: "POA"
 
     # Site info
     site:
